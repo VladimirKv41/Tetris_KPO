@@ -1,0 +1,3 @@
+ooo : 600
+ooo : 200
+defaul3 : 0

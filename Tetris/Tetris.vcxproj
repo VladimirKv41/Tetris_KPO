@@ -140,10 +140,31 @@
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Image Include="1.jpg" />
+    <Image Include="1_on.jpg" />
+    <Image Include="2.jpg" />
+    <Image Include="2_on.jpg" />
+    <Image Include="3.jpg" />
+    <Image Include="3_on.jpg" />
+    <Image Include="Background.jpg" />
+    <Image Include="Background0.jpg" />
+    <Image Include="Background2.jpg" />
+    <Image Include="Enter.jpg" />
+    <Image Include="Enter_on.jpg" />
+    <Image Include="minus.jpg" />
+    <Image Include="minus_on.jpg" />
     <Image Include="newtilefromdima.jpg" />
+    <Image Include="plus.jpg" />
+    <Image Include="plus_on.jpg" />
   </ItemGroup>
   <ItemGroup>
     <None Include="mark-cook-pump-it-up.ogg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="times-new-roman.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="records.TXT" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

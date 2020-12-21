@@ -23,8 +23,59 @@
     <Image Include="newtilefromdima.jpg">
       <Filter>Файлы ресурсов</Filter>
     </Image>
+    <Image Include="Background.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="1.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="1_on.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="2.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="2_on.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="3.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="3_on.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="Background0.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="Background2.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="Enter.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="Enter_on.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="minus.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="minus_on.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="plus.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
+    <Image Include="plus_on.jpg">
+      <Filter>Файлы ресурсов</Filter>
+    </Image>
   </ItemGroup>
   <ItemGroup>
     <None Include="mark-cook-pump-it-up.ogg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="times-new-roman.ttf" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="records.TXT" />
   </ItemGroup>
 </Project>
